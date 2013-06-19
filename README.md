@@ -35,7 +35,7 @@ Run all the tests:
 $ bundle exec rake
 
 
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 
