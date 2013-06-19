@@ -1,14 +1,10 @@
 # wanikani.rb
 
-* (http://github.com/mcfiredrill/wanikani.rb)
+* http://github.com/mcfiredrill/wanikani.rb
 
 ## DESCRIPTION:
 
 very simple wrapper around wanikani's api. (http://www.wanikani.com)
-
-## FEATURES/PROBLEMS:
-
-* FIX (list of features or problems)
 
 ## SYNOPSIS:
 
@@ -43,7 +39,7 @@ $ bundle exec rake
 
 (The MIT License)
 
-Copyright (c) 2013 FIX
+Copyright (c) 2013
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
